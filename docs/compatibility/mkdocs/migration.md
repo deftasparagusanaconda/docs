@@ -62,8 +62,6 @@ directory URLs, and navigation configuration remain unchanged.
 
 The following `mkdocs.yml` settings are not yet supported in Zensical:
 
-- `remote_branch`
-- `remote_name`
 - `hooks`
 
 ## Build and preview
