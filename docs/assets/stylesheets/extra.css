@@ -26,11 +26,11 @@
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   background:
     radial-gradient(
-      circle at 50% -180%,
-      rgba(255, 119, 53, 0.18),
-      transparent 58%
+      ellipse at 50% 0%,
+      rgba(71, 122, 132, 0.28),
+      transparent 70%
     ),
-    #15161a;
+    #1c2429;
 }
 
 [data-md-component="announce"] .md-banner {
@@ -46,11 +46,11 @@
   border-bottom-color: rgba(255, 255, 255, 0.07);
   background:
     radial-gradient(
-      circle at 50% -180%,
-      rgba(255, 119, 53, 0.13),
-      transparent 58%
+      ellipse at 50% 0%,
+      rgba(71, 122, 132, 0.28),
+      transparent 70%
     ),
-    #1b1c21;
+    #1c2429;
 }
 
 .mdx-announcement {
